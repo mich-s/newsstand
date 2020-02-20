@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01579b</color>
+    <color name="colorPrimaryDark">#002f6c</color>
+    <color name="colorAccent">#4f83cc</color>
+    <color name="colorBackground">#ffffff</color>
+
+    <color name="text_title">#000000</color>
+    <color name="divider">#d3d3d3</color>
+    <color name="progress_bar">#64dd17</color>
+</resources>

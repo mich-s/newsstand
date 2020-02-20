@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">newsstand</string>
+    <string name="show_in_web">Show in Web</string>
+    <string name="add_to_favorites">Add to favorites</string>
+</resources>
