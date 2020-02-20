@@ -9,6 +9,8 @@ Get your own [API key](https://newsapi.org/register) and inside gradle.propertie
 ```<your_api_token_from_newsapi_org>``` with obtained key
 ## Screenshots
 ![home](screenshots/home.png "Home view") 
-![favorites](screenshots/favorites.png "Favorites articles") 
+![favorites](screenshots/favorites.png "Favorites articles")
+
+
 ![filter](screenshots/filter.png "Filter articles")
 ![webview](screenshots/webview.png "Web view")
